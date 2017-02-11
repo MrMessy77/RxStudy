@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos'>
+    <pages>
+        <page name='介绍'/>
+        <page name='创建和订阅被观察的对象'/>
+        <page name='Subjects'/>
+        <page name='序列组合'/>
+        <page name='序列转换'/>
+        <page name='过滤和条件'/>
+        <page name='数学和聚合'/>
+        <page name='连接性操作'/>
+        <page name='错误处理'/>
+        <page name='调试'/>
+    </pages>
+</playground>
